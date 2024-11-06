@@ -1,6 +1,6 @@
 {
   "name": "smart-input-formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React-based input formatter for phone numbers, currency, dates, and custom patterns",
   "main": "dist/index.js",
   "module": "dist/index.js",
