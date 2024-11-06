@@ -6,7 +6,7 @@
   "module": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repo-name.git"
+    "url": "https://github.com/NS-Sheam/smart-input-formatter"
   },
   "scripts": {
     "build": "webpack --mode production",

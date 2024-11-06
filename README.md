@@ -27,7 +27,6 @@ npm install smart-input-formatter
 
 Provide code examples that demonstrate how to use the package in various scenarios.
 
-````markdown
 ## Usage
 
 ### Importing the Component
@@ -35,7 +34,6 @@ Provide code examples that demonstrate how to use the package in various scenari
 ```javascript
 import SmartInputFormatter from "smart-input-formatter";
 ```
-````
 
 ```javascript
 import SmartInputFormatter from "smart-input-formatter";
@@ -90,7 +88,7 @@ export default App;
 
 #### Using Custom Pattern for Hex Color Code
 
-````javascript
+```javascript
 <SmartInputFormatter
   customPattern={/[^a-fA-F0-9]/g}
   placeholder="#FFFFFF"
@@ -103,14 +101,12 @@ export default App;
   locale="de-DE"
   currency="EUR"
 />
-
-
+```
 
 ### 6. **Contributing**
 
 Encourage other developers to contribute and explain how they can do so.
 
-```markdown
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
@@ -121,4 +117,3 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Commit your changes (`git commit -m 'Add your message'`).
 5. Push to the branch (`git push origin feature/YourFeature`).
 6. Open a Pull Request.
-````
